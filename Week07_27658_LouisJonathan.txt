@@ -1,0 +1,4 @@
+1. Setelah melakukan pengujian pada app pertama yaitu app untuk mengambil foto dan video, maka dapat disimpulkan telah berjalan dengan baik.
+    App yang dihasilkan memerlukan permission terlebih dahulu dalam manifest untuk menggunakan hardware sehingga dapat digunakan.
+2. Setelah melakukan pengujian pada app kedua yaitu app untuk menampilkan list video dan memainkannya dalam detilvideo, maka dapat disimpulkan telah berjalan dengan baik.
+    App yang dihasilkan tidak mendeteksi storage dalam device namun memang sudah terdapat dalam folder app yaitu raw menyebabkan aplikasi menjadi sangat besar dalam penggunaan memori. List video telah ditunjukkan dengan baik menggunakan Recycler View. 
